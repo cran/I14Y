@@ -1,6 +1,6 @@
-7424cb8366d0922fdda16f0041860872 *DESCRIPTION
+a253269508a57d5c12b680e1bdb78aa9 *DESCRIPTION
 56064f9b6aed6e3db78d5088e9672392 *NAMESPACE
-ad0dd92428ff5b508459c43150bbbb36 *NEWS.md
+7d2b72e70861274ec0a0baceda562936 *NEWS.md
 d33c7c46c7b5b4dde886f43aabdd2cc1 *R/i14y_get_codelist.R
 f8c46166c91dd182b2e33fb2c9bccc15 *R/i14y_get_concept.R
 816f2259007dc21aecc62d4677eb8559 *R/i14y_get_concept_all_versions.R
@@ -17,8 +17,8 @@ b431304c53c72e397dbc077887af22c1 *R/i14y_search_catalog.R
 aac4e8265de4c97a441c9debc59bf6c0 *R/i14y_search_concept.R
 ba92e402855481ea0e292827d997db63 *R/i14y_search_nomenclature.R
 2885882ad0c853f5af31200959dce9a8 *R/imports.R
-1ecfdc1884c33a9bb0753e113122dcfb *R/validate.R
-9d073b9cd61ba2955edf64f6e43b2630 *README.md
+dd475e3d6998556647ac83ccf73dbdc5 *R/validate.R
+545c2ca1463cdc99bc5ea8254b78eda0 *README.md
 deab7453a741f798298e4c48b9c6d8be *man/figures/logo.png
 1dcaa06ed98e4cf50ff4e97e37f5a9ca *man/i14y_get_codelist.Rd
 5ee3c66ea1c0b0b55cc1b6f43f2e038d *man/i14y_get_concept.Rd
