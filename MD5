@@ -1,13 +1,12 @@
-2fd9811b84acc5f8d0b3ca48bbd72d58 *DESCRIPTION
-56064f9b6aed6e3db78d5088e9672392 *NAMESPACE
-7a61e94f541bf9f82d5c1be4e7c2e162 *NEWS.md
+684d65887a51aae8cfb0f0042873d94e *DESCRIPTION
+9c10d1ecc7c4fd87070f47ff5a15f825 *NAMESPACE
+b1c19eb209e7f024079015cc8770e33c *NEWS.md
 d33c7c46c7b5b4dde886f43aabdd2cc1 *R/i14y_get_codelist.R
 f8c46166c91dd182b2e33fb2c9bccc15 *R/i14y_get_concept.R
 816f2259007dc21aecc62d4677eb8559 *R/i14y_get_concept_all_versions.R
 4559dc3e95d6cda300d297f9560f6917 *R/i14y_get_content_information.R
 bb8fb625e2ba657c5a3fa80db3d80e97 *R/i14y_get_data_element.R
 842484814fed1b142deafe1f7e9d2316 *R/i14y_get_data_service.R
-03fc0be85ef8a164f7083c065dfa2e2a *R/i14y_get_data_service_registration.R
 4b328d24a549b1986a130e37104673f7 *R/i14y_get_data_structure.R
 fa6b0e8b95680bbf9f5bce644d64f1db *R/i14y_get_dataset_description.R
 36d890ab86016c55574b70f9205f69aa *R/i14y_get_dataset_distributions.R
@@ -17,7 +16,7 @@ b431304c53c72e397dbc077887af22c1 *R/i14y_search_catalog.R
 aac4e8265de4c97a441c9debc59bf6c0 *R/i14y_search_concept.R
 ba92e402855481ea0e292827d997db63 *R/i14y_search_nomenclature.R
 2885882ad0c853f5af31200959dce9a8 *R/imports.R
-dd475e3d6998556647ac83ccf73dbdc5 *R/validate.R
+eebf3d6233ff6f3e5fc7ab9889ddac77 *R/validate.R
 545c2ca1463cdc99bc5ea8254b78eda0 *README.md
 deab7453a741f798298e4c48b9c6d8be *man/figures/logo.png
 1dcaa06ed98e4cf50ff4e97e37f5a9ca *man/i14y_get_codelist.Rd
@@ -26,7 +25,6 @@ deab7453a741f798298e4c48b9c6d8be *man/figures/logo.png
 2a42224eccad3ef9dc83c4e1697f1907 *man/i14y_get_content_information.Rd
 23fb5327113ae0d7fa183a33e285282a *man/i14y_get_data_element.Rd
 08e737db0082072e871a36737c5b5b42 *man/i14y_get_data_service.Rd
-5b327f80841ae7fd7ea877d696123f7f *man/i14y_get_data_service_registration.Rd
 04408414bdea64e68b876bd6201cb3c4 *man/i14y_get_data_structure.Rd
 0b5e6195daeb99e59169b47b71c241e8 *man/i14y_get_dataset_description.Rd
 4ac9d0540d4289703be9564c9abb4f05 *man/i14y_get_dataset_distributions.Rd
@@ -42,7 +40,6 @@ a47b6cbcaeff28d1cded998b5e4981c7 *tests/testthat/test-i14y_get_concept_all_versi
 da19b5417f49a8a8c494c1a92c368b1f *tests/testthat/test-i14y_get_content_information.R
 bc5a6b347a9d9b9dacae15212c1ecbba *tests/testthat/test-i14y_get_data_element.R
 b39e13a3ccaf1e5ee0432437b83fff09 *tests/testthat/test-i14y_get_data_service.R
-a3ef1adb694b67fcc5f7f855272ed778 *tests/testthat/test-i14y_get_data_service_registration.R
 fb8712220d7f57deaeac18573b4ec073 *tests/testthat/test-i14y_get_data_structure.R
 4b4e35ade0878ed77c8cd9ffc269ce32 *tests/testthat/test-i14y_get_dataset_description.R
 5e97a1dbe7e3dc7077db30ce4d56eb64 *tests/testthat/test-i14y_get_dataset_distributions.R
@@ -51,3 +48,4 @@ fb8712220d7f57deaeac18573b4ec073 *tests/testthat/test-i14y_get_data_structure.R
 5a51146934a4ee3f33e5768348d28135 *tests/testthat/test-i14y_search_catalog.R
 0ddf15b4b0af8c4199be064bab9b2805 *tests/testthat/test-i14y_search_concept.R
 ac6cded2951363d5afb3d94813929e34 *tests/testthat/test-i14y_search_nomenclature.R
+11a3c842b810a5b487a05be389ce1b84 *tests/testthat/testthat-problems.rds
