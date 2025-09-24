@@ -2,7 +2,7 @@ Package: I14Y
 Type: Package
 Title: Search and Get Data from the I14Y Interoperability Platform of
         Switzerland
-Version: 0.1.5
+Version: 0.1.6
 Authors@R: c(
     person(given = "Felix",
            family = "Luginbuhl",
@@ -26,9 +26,9 @@ Encoding: UTF-8
 RoxygenNote: 7.3.2
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2025-07-14 10:26:14 UTC; felix
+Packaged: 2025-09-23 07:45:23 UTC; felix
 Author: Felix Luginbuhl [aut, cre, cph] (ORCID:
     <https://orcid.org/0009-0008-6625-2899>),
   Felix Lorenz [ctr]
 Repository: CRAN
-Date/Publication: 2025-07-14 12:30:06 UTC
+Date/Publication: 2025-09-24 10:50:20 UTC
